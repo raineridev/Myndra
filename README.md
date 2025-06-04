@@ -1,2 +1,3 @@
 # Myndra
- Modular workflow engine in pure Java. Build resilient, conditional, and parallel task flows with shared state and retry logic. 
+
+**Myndra** is a lightweight workflow engine written in pure Java. It lets you define and execute task flows with support for conditionals, retries, timeouts, and shared state all without relying on external frameworks.
